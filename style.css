@@ -1,0 +1,10 @@
+body::before{
+    display:block;
+    content: '';
+    height: 70px
+}
+
+.priv-link{
+    text-decoration: none;
+    font-weight: bold;
+  }
